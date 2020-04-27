@@ -1,0 +1,16 @@
+[Contact Details]
+PHONE = "(+974) 55576415"
+FAX = "(+974) 55576415"
+MOBILE = "(+974) 70323292"
+E-MAIL = "info@amherstqa.com"
+ADDRESS1 ="Amherst Trading & Cont. Co. W.L.L."
+ADDRESS2 ="Building #71, Zone 57, Street 125, Industrial Area, Office #9, 1st Floor"
+ADDRESS3 ="Doha, PO.BOX: 4322"
+ADDRESS4 ="State of Qatar"
+
+
+[Website Logo]
+Please upload and replace your logo on the following path: WWW/undercons_files/company-logo.png
+Logo Size:  width:389px  height:82px
+Format: PNG File
+
